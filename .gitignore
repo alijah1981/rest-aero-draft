@@ -1,0 +1,10 @@
+node_modules
+config/default.dev.js
+package-lock.json
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*

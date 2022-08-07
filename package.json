@@ -1,0 +1,25 @@
+{
+  "name": "rest-express",
+  "version": "1.0.0",
+  "description": "rest express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "uzer",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.7",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mariadb": "^3.0.0",
+    "mime": "^3.0.0",
+    "multer": "^1.4.4",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3",
+    "uuid": "^8.3.2"
+  }
+}
